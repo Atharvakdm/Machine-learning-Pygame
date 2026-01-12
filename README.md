@@ -13,7 +13,11 @@ Matplotlib: Static, animated, and interactive visualizations
 
 -Project Categories
 Real-Time Computer VisionUsing MediaPipe and OpenCV, these projects involve detecting human body landmarks to create interactive experiences. 
-This includes:Multi-hand tracking and handedness classification.Spatial coordinate geometry to detect gestures based on Euclidean distance.
+This includes:Multi-hand tracking and handedness classification.
+Spatial coordinate geometry to detect gestures based on Euclidean distance.
 Canvas-based drawing systems using bitwise operations.
-Statistical Modeling & Data VisualizationUtilizing NumPy, Scikit-Learn, and Matplotlib to translate raw data into meaningful insights. 
-Key areas include: Visualizing probability distributions (e.g., Normal/Gaussian Bell Curves).Data scaling and normalization for machine learning pipelines.Plotting complex mathematical functions.
+Statistical Modeling & Data Visualization
+Utilizing NumPy, Scikit-Learn, and Matplotlib to translate raw data into meaningful insights. 
+Key areas include: Visualizing probability distributions (e.g., Normal/Gaussian Bell Curves).
+Data scaling and normalization for machine learning pipelines.
+Plotting complex mathematical functions.
