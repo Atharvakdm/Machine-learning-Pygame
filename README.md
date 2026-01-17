@@ -1,8 +1,8 @@
-Machine Learning & Data Science Projects
+Machine Learning & Data Science Projects:
 This repository contains a collection of Python-based projects focusing on Human-Computer Interaction (HCI), Machine Learning, and Scientific Data Visualization. 
 The projects explore the intersection of real-time sensor data (via webcams) and mathematical modeling.
 
--Tech Stack
+-Tech Stack:
 The following core technologies and versions were used across these projects:
 Python: 3.12+
 MediaPipe: 0.10.15 (Hand Tracking, Pose Estimation, and Landmark Detection)
@@ -11,9 +11,9 @@ NumPy: Numerical computing and multi-dimensional array processing
 Scikit-Learn: Machine learning algorithms and data preprocessing
 Matplotlib: Static, animated, and interactive visualizations
 
--Project Categories
-Real-Time Computer VisionUsing MediaPipe and OpenCV, these projects involve detecting human body landmarks to create interactive experiences. 
-This includes:Multi-hand tracking and handedness classification.
+-Project Categories:
+Real-Time Computer Vision: Using MediaPipe and OpenCV, these projects involve detecting human body landmarks to create interactive experiences. 
+This includes: Multi-hand tracking and handedness classification.
 Spatial coordinate geometry to detect gestures based on Euclidean distance.
 Canvas-based drawing systems using bitwise operations.
 Statistical Modeling & Data Visualization
