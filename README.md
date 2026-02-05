@@ -4,8 +4,7 @@ The projects explore the intersection of real-time sensor data (via webcams) and
 
 ### -Tech Stack:
 The following core technologies and versions were used across these projects:
-Python: 3.12+
-MediaPipe: 0.10.15 (Hand Tracking, Pose Estimation, and Landmark Detection)
+Python and MediaPipe: 0.10.15 (Hand Tracking, Pose Estimation, and Landmark Detection)
 OpenCV: Image processing and real-time video manipulation
 NumPy: Numerical computing and multi-dimensional array processing
 Scikit-Learn: Machine learning algorithms and data preprocessing
